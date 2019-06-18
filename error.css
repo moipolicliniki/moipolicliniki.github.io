@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('../fonts/als_schlange_sans-regular.woff2') format('woff2'),
+         url('../fonts/als_schlange_sans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#container{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+
+	
+body{
+	margin: 0px;
+	overflow: hidden;
+	font-family: 'als_schlange_sans';
+
+}
+
+	
+.AR-tip {
+        z-index: 9999;
+        padding: 30px 50px 60px
+	min-width: 100px;
+	max-width: 400px;
+	display: block;
+        background: rgba(0,0,0,0.7);
+        position: absolute;
+         -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+}
+
+.AR-tip h2 {
+  color: #fff;
+  font-weight: 400;
+}
+
+.AR-tip p {
+        font-weight: 400;
+        color: #fff;
+	font-size: 1em;
+	line-height: 1em;
+
+}
+		
+.gotit {
+  font-size: 2em;
+  color: #ff0;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+
+.gotit a {display: block; text-align: center;}
+
+.links {
+  color: #f45;
+}	
