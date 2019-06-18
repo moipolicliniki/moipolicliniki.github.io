@@ -1,0 +1,26 @@
+# Blender MTL File: 'grafikaFINweb fin.blend'
+# Material Count: 2
+
+newmtl Material.011
+Ns 96.078431
+Ka 0.898551 0.898551 0.898551
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.862319
+illum 2
+map_Kd Toys_information-06back.png
+map_d Toys_information-06back.png
+
+newmtl Material.012
+Ns 96.078431
+Ka 0.913043 0.913043 0.913043
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.934783
+illum 2
+map_Kd Toys_information-06.png
+map_d Toys_information-06.png
