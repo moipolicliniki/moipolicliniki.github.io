@@ -17,7 +17,7 @@ function getMobileOperatingSystem() {
 }
 var check=getMobileOperatingSystem();
 if(check=='bad'){
-   window.location.href = "http://arssent.github.io/test/error.html";
+   window.location.href = "https://moipolicliniki.github.io/error.html";
    };
    
    
